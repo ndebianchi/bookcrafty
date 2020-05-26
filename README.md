@@ -1,3 +1,3 @@
 bookcrafty
 
-Exercício feito para ver na prática os conceitos de Seeders e Migrations do Sequelize
+Exercício para praticar os conceitos de Seeders e Migrations do Sequelize
