@@ -5,7 +5,7 @@ module.exports = {
 
     return queryInterface.createTable(
       'categoria', {
-        id: {
+        id_categoria: {
           type: Sequelize.INTEGER,
           allowNull: false,
           primaryKey: true,
